@@ -3,7 +3,7 @@
 Template Name: Front
 */
 get_header(); ?>
-
+<?php echo '<p>Hello World</p>'; ?> 
 <header id="front-hero" role="banner">
 	<div class="marketing">
 		<div class="tagline">
