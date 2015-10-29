@@ -1,0 +1,28 @@
+/*
+	My custom settings. These variables are copied from _settings.css
+	This file will only contain uncommented settings that are actually used in the theme.
+*/
+.main-head { margin-bottom: .5em;
+       padding: .5em;
+       background: #d30041;
+       background: -moz-radial-gradient(center,
+ellipse cover,  #00b3d3 0%, #007295
+100%);
+background: -webkit-gradient(radial,
+center center, 0px, center center, 100%,
+color-stop(0%,#00b3d3), color-stop
+(100%,#007295));
+       background: -webkit-radial-gradient
+(center, ellipse cover,  #00b3d3 0%,
+#007295 100%);
+   }
+   .main-head h1 {
+       text-align: center;
+       font-weight: 100;
+       text-transform: uppercase;
+   letter-spacing: 10px; 
+       text-shadow: 15px 15px 20px rgba
+(50, 50, 50, 0.59);
+       font-size: 2.5rem;
+       color: #fff;
+   }
